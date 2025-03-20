@@ -8,5 +8,5 @@ The solution uses genetic algorithms and hill climbing to optimize the partition
 
 
 
- This project was created as part of an AI course, developed with a team.
+ This project was created as part of an AI course , with a team.
 
